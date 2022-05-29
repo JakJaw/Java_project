@@ -1,0 +1,15 @@
+Avatar;20.0;8;100;800;Sci-fi
+Fight Club;10.11;10;190;1006;Drama
+Pulp Fiction;10.99;10;100;1004;Drama
+Django;7.5;8;190;800;Action
+Taxi Driver;5.0;8;400;1005;Drama
+Drive;15.99;5;500;500;Action
+La La Land;3.0;8;980;700;Musical
+Birdman or (The Unexpected Virtue of Ignorance);6.0;6;80;100;Drama
+Astérix aux Jeux Olympiques;2.0;10;100;1006;Comedy
+Encanto;6.0;6;60;676;Comedy
+Gierek;0.55;1;10;10088;Drama
+Gordon and Paddy;5.0;5;100;10088;Animation
+Belfast;10.29;7;1000;100;Drama
+No Time to Die;9.0;2;1000;6086;Action
+C'mon C'mon;10.0;9;100;9006;Drama
